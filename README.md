@@ -18,7 +18,7 @@
 </div>  
   
 
-### <div align="center">Hey , I'm Imad MIMOUNI, I'am studying web development (MERN stack), and problem solving (using C)</div>  
+### <div align="center">Hey ,I'm Imad MIMOUNI, I'am studying web development (MERN stack), and problem solving (using C)</div>  
   
 
 - 🔭 I’m currently student in [1337 coding school](https://www.linkedin.com/school/1337-future-is-loading/)  
@@ -47,7 +47,7 @@
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -65,11 +65,17 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td>
 
 
 
 </td></tr></table>  
 
 <br/>  
+<br/>  
 
+# GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imadmi&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<br/> 
