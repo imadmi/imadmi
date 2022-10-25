@@ -16,8 +16,8 @@
 <br/>  
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=oumimoun&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=oumimoun&theme=vue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=oumimoun&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=imadmi&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=imadmi&theme=vue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imadmi&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br/> 
