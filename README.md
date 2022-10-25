@@ -29,7 +29,7 @@
 <br/>  
 
 
-## My Skill Set  
+## The skills I am currently learning  
 <table><tr><td valign="top" width="50%">
 
 
