@@ -1,18 +1,5 @@
 ## Hey , I'm Imad MIMOUNI!  
- <h3> 🤝🏻 Connect with Me </h3> 
-<div align="center">
- 
-<a href="https://www.linkedin.com/in/imadmimouni" target="_blank">
-<img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" />
-  
 
-<a href="https://twitter.com/ImadMimouni2" target="_blank">
-<img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" />
-</a>
-
-  
-
-</div>  
   
 
 ### <div align="center">Hey ,I'm Imad MIMOUNI, I'am studying web development (MERN stack), and problem solving (using C)</div>  
@@ -76,4 +63,19 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imadmi&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br/> 
-From [Imad MIMOUNI](https://github.com/imadmi)
+ <h3> 🤝🏻 Connect with Me </h3> 
+<div align="center">
+ 
+<a href="https://www.linkedin.com/in/imadmimouni" target="_blank">
+<img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" />
+  
+
+<a href="https://twitter.com/ImadMimouni2" target="_blank">
+<img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" />
+</a>
+
+  
+
+</div>  
+
+ 
