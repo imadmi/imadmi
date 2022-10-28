@@ -2,10 +2,10 @@
 
   
 
-### <div align="center">Hey ,I'm Imad MIMOUNI, I'am studying web development (MERN stack), and problem solving (using C)</div>  
+### <div align="center">I'am studying web development (MERN stack), and problem solving (using C)</div>  
   
 
-- 🔭 I’m currently student in [1337 coding school](https://www.linkedin.com/school/1337-future-is-loading/)  
+- 🔭 I’m currently a student in [1337 coding school](https://www.linkedin.com/school/1337-future-is-loading/)  
   
 
 - 🌱 I’m currently learning web development  
