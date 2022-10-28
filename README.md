@@ -2,14 +2,11 @@
   
 
 <a href="https://www.linkedin.com/in/imadmimouni" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" />
   
-</a>
-<a href="https://github.com/imadmi" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://twitter.com/ImadMimouni2" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" />
 </a>
 
   
