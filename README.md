@@ -58,10 +58,6 @@
 <br/>  
 <br/>  
 
-# GitHub Stats:
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imadmi&layout=compact)](https://github.com/imadmi/github-readme-stats)
 
 <br/> 
  <h3> 🤝🏻 Connect with Me </h3> 
