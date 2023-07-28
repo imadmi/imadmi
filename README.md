@@ -2,7 +2,7 @@
 
   
 
-### <div align="center">I'am studying web development (MERN stack), and problem solving (using C)</div>  
+### <div align="center">I'am studying web development (MERN stack), and problem solving (using C && c++)</div>  
   
 
 - 🔭 I’m currently a student in [1337 coding school](https://www.linkedin.com/school/1337-future-is-loading/)  
