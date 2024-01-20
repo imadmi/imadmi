@@ -12,7 +12,8 @@
 <br/>  
 
 
-## The skills I am currently learning  
+## My Skill Set
+
 <table><tr><td valign="top" width="33%">
 
 
