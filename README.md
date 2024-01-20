@@ -2,13 +2,11 @@
 
   
 
-### <div align="center">I'am studying web development (MERN stack), and problem solving (using C && c++)</div>  
+### <div align="center">Full-stack developer ( Javascript/Typescript , Next.js, React.js, Nest.js, Express.js).</div>  
   
 
-- 🔭 I’m currently a student in [1337 coding school](https://www.linkedin.com/school/1337-future-is-loading/)  
+- [1337 coding school](https://www.linkedin.com/school/1337-future-is-loading/)  
   
-
-- 🌱 I’m currently learning web development  
   
 
 <br/>  
