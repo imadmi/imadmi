@@ -13,7 +13,7 @@
 
 
 ## The skills I am currently learning  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="33%">
 
 
 
