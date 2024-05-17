@@ -5,8 +5,6 @@
 ### <div align="center">Full-stack developer ( Javascript/Typescript , Next.js, React.js, Nest.js, Express.js).</div>  
   
 
-- [1337 coding school](https://www.linkedin.com/school/1337-future-is-loading/)  
-  
   
 
 <br/>  
